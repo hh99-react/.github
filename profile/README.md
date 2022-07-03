@@ -1,12 +1,8 @@
-## Hi there 👋
 
-<!--
+## 항해99 리액트 팀 소스 창고
+- [prac]은 실습 입니다.
+- [과제]는 정해진 기간에만 public으로 오픈 됩니다.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
